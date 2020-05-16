@@ -2,8 +2,8 @@
 
 def my_collect(languages)
   upcase_names = [ ]
-  languages.collect do |language|
-    language.upcase
+  languages.each do |language|
+    
   end
 
 end
