@@ -5,3 +5,6 @@ def my_collect(names)
     name.split(" ").first 
 end
 
+names
+
+end
