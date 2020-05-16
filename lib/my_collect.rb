@@ -13,4 +13,3 @@ def my_collect(languages)
 end
 
 
-[Tim Jones , Tom Smith , ]
