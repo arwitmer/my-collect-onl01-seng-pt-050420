@@ -7,7 +7,7 @@ def my_collect(languages)
   
     
   end
-  
+  upcase_names 
 
 
 end
