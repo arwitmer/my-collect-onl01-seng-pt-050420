@@ -1,5 +1,5 @@
-names = "Andy", "Aaron", "Tony" 
+names = "Andy Witmer", "Aaron Hyser", "Tony Hyser" 
 
 def my_collect(names)
-  names.collect do
+  names.collect do |name|
 
