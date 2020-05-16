@@ -1,8 +1,8 @@
-names = "Andy Witmer", "Aaron Hyser", "Tony Hyser" 
+ 
 
-def my_collect(names)
-  names.collect do |name|
-    name.split(" ").first 
+def my_collect(languages)
+  languages.collect do |language|
+    language.split(" ").first 
   end
 
 end
