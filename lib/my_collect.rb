@@ -1,4 +1,4 @@
-list = 
+names = "Andy", "Aaron", "Tony" 
 
 def my_collect(names)
   
